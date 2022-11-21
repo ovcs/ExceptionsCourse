@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "production": "hp",
+    "model" : "447",
+    "sn" : "DDFGH345VGDD"
+  },
+  {
+    "id": "2",
+    "production": "lenovo",
+    "model" : "x342",
+    "sn" : "VBDDRR433DDE"
+  },
+  {
+    "id": "3",
+    "production": "samsung",
+    "model" : "v41",
+    "sn" : "BFEHNH41133D"
+  },
+  {
+    "id": "4",
+    "production": "hp",
+    "model" : "541",
+    "sn" : "MFFSSF43334F"
+  }
+]
